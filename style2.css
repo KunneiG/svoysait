@@ -1,0 +1,74 @@
+.banner{
+	height: 450px;
+	text-align: center;
+	padding-top: 50px;
+}
+.banner2{
+	background-color: #571E2D;
+	height: 150px;
+	display: flex;
+}
+h1{
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	margin-top: 50px;
+	transition: 0.5s;
+}
+h1:hover{
+	color: #E697AC;
+	transform: scale(1.1);
+}
+.yakutsk{
+	height: 150px;
+	background-image: url(banner.png);
+	background-size: 100% 100%;
+}
+h2{
+	font-size: 40px;
+	text-align: center;
+	padding-top: 40px;
+	color: white;
+}
+.menu{
+	height: 1050px;
+	background-color: #E6A275;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+.photos{
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+}
+p{
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	color: white;
+	
+}
+.mini{
+	display: flex;
+	transition: 0.5s;
+	border-radius: 30px;
+}
+.mt{
+	margin-top: 50px;
+}
+.mini:hover{
+	transform: scale(1.05);
+	background-color: #571E2D;
+
+}
+.info{
+	background-color: brown;
+	height: 300px;
+}
+.pt{
+	padding-top: 10px;
+}
+a{
+	color: yellow;
+}
